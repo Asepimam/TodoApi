@@ -10,7 +10,7 @@ This is a simple Todo API built with .NET. It allows you to create, read, update
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Asepimam/TodoApi
     ```
 2. Navigate to the project directory:
     ```bash
